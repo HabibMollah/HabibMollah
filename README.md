@@ -27,8 +27,8 @@
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=habibmollah&theme=dark" alt="habibmollah" /></p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me</h3>
+<p align="center">
 <a href="https://twitter.com/habibalbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="habibalbd" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/habib-ibn-tofazzal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="habib-ibn-tofazzal" height="30" width="40" /></a>
 <a href="https://fb.com/habib.ibn.tofazzal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="habib.ibn.tofazzal" height="30" width="40" /></a>
