@@ -1,7 +1,7 @@
 <h1 align="center">👋 I'm Habibur Rahman</h1>
 <h3 align="center">A passionate learner from Bangladesh 🇧🇩</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=habibmollah&label=Profile%20views&color=ffbb00&style=flat" alt="habibmollah" /> </p>
+<p align="left"> <img style="width:60px; height:10px" src="https://komarev.com/ghpvc/?username=habibmollah&label=Profile%20views&color=ffbb00&style=flat" alt="habibmollah" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=habibmollah" alt="habibmollah" /></a> </p>
 
