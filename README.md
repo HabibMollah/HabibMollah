@@ -1,7 +1,7 @@
 <h1 align="center">👋 I'm Habibur Rahman</h1>
 <h3 align="center">A passionate learner from Bangladesh 🇧🇩</h3>
 
-<p align="center"> <img style="width:200px" src="https://komarev.com/ghpvc/?username=habibmollah&label=Profile%20views&color=ffbb00&style=flat" alt="habibmollah" /> </p>
+<p align="center"> <img style="width:130px" src="https://komarev.com/ghpvc/?username=habibmollah&label=Profile%20views&color=ffbb00&style=flat" alt="habibmollah" /> </p>
 
 - 🔭 I’m currently working on **beginner JavaScript projects**
 
