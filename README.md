@@ -19,7 +19,7 @@
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=habibmollah&theme=dark" alt="habibmollah" /></p>
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=habibmollah&show_icons=true&theme=merko&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en" alt="habibmollah" /></p>
+<!-- <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=habibmollah&show_icons=true&theme=merko&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en" alt="habibmollah" /></p> -->
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
