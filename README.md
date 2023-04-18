@@ -3,15 +3,15 @@
 
 <p align="center"> <img style="width:130px" src="https://komarev.com/ghpvc/?username=habibmollah&label=Profile%20views&color=ffbb00&style=flat" alt="habibmollah" /> </p>
 
-- 🔭 I’m currently working on **beginner JavaScript projects**
+- 🔭 I’m currently working on **beginner React projects**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **open source projects relating HTML, CSS & beginner JavaScript**
+- 👯 I’m looking to collaborate on **React projects**
 
 - 👨‍💻 All of my projects are available at [https://habibmollah.github.io/first-portfolio/](https://habibmollah.github.io/first-portfolio/)
 
-- 📫 How to reach me **t.me/HabibMollah**
+- 📫 How to reach me **hrmollah2002@gmail.com**
 
 - ⚡ Fun fact **I can sit in front of my computer 6 hours straight without eating or sleeping 💀**
 <h3 align="center">Languages and Tools:</h3>
