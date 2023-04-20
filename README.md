@@ -3,17 +3,14 @@
 
 <p align="center"> <img style="width:130px" src="https://komarev.com/ghpvc/?username=habibmollah&label=Profile%20views&color=ffbb00&style=flat" alt="habibmollah" /> </p>
 
-- 🔭 I’m currently working on **beginner React projects**
+🌱 I’m currently learning **React**
 
-- 🌱 I’m currently learning **React**
+👯 I’m looking to collaborate on **React projects**
 
-- 👯 I’m looking to collaborate on **React projects**
+👨‍💻 All of my projects are available at [https://habibmollah.github.io/first-portfolio/](https://habibmollah.github.io/first-portfolio/)
 
-- 👨‍💻 All of my projects are available at [https://habibmollah.github.io/first-portfolio/](https://habibmollah.github.io/first-portfolio/)
+📫 To reach me **hrmollah2002@gmail.com**
 
-- 📫 How to reach me **hrmollah2002@gmail.com**
-
-- ⚡ Fun fact **I can sit in front of my computer 6 hours straight without eating or sleeping 💀**
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
