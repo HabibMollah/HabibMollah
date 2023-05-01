@@ -1,4 +1,4 @@
-<h1 align="left">👋 I'm Habibur Rahman</h1>
+<h1 align="left">Hey!👋 I'm Habibur Rahman</h1>
 <p align="left">An enthusiastic and determined learner from Bangladesh 🇧🇩, committed to expanding my knowledge and skills in order to make a positive impact on my community and the world.</p>
 
 <h3 align="center">⚙ Languages and technologies 🛠:</h3>
