@@ -1,5 +1,5 @@
 <h1 align="center">👋 I'm Habibur Rahman</h1>
-<h3 align="center">A passionate learner from Bangladesh 🇧🇩</h3>
+<h3 align="left">An enthusiastic and determined learner from Bangladesh 🇧🇩, committed to expanding my knowledge and skills in order to make a positive impact on my community and the world.</h3>
 
 <p align="center"> <img style="width:130px" src="https://komarev.com/ghpvc/?username=habibmollah&label=Profile%20views&color=ffbb00&style=flat" alt="habibmollah" /> </p>
 
