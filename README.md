@@ -1,6 +1,8 @@
 <h1 align="left">Hey!👋 I'm Habibur Rahman</h1>
 <p align="left">An enthusiastic and determined learner from Bangladesh 🇧🇩, committed to expanding my knowledge and skills in order to make a positive impact on my community and the world.</p>
 
+<p>📫 To reach me <a href="mailto:hrmollah2002@gmail.com">hrmollah2002@gmail.com</a></p>
+
 <h3 align="center">⚙ Languages and technologies 🛠:</h3>
 <p align="center">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
