@@ -1,5 +1,5 @@
 <h1 align="left">👋 I'm Habibur Rahman</h1>
-<h3 align="left">An enthusiastic and determined learner from Bangladesh 🇧🇩, committed to expanding my knowledge and skills in order to make a positive impact on my community and the world.</h3>
+<p align="left">An enthusiastic and determined learner from Bangladesh 🇧🇩, committed to expanding my knowledge and skills in order to make a positive impact on my community and the world.</p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
