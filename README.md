@@ -26,4 +26,4 @@
 <a href="https://fb.com/habib.ibn.tofazzal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="habib.ibn.tofazzal" height="30" width="40" /></a>
 </p>
 
-<p align="left"> <img style="width:130px" src="https://komarev.com/ghpvc/?username=habibmollah&label=Profile%20views&color=ffbb00&style=flat" alt="habibmollah" /> </p>
+<p align="left"> <img style="width:130px" src="https://komarev.com/ghpvc/?username=habibmollah&label=Profile%20views&color=34AEEB&style=flat" alt="habibmollah" /> </p>
