@@ -15,7 +15,7 @@
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=habibmollah&theme=dark" alt="habibmollah" /></p>
+<!--<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=habibmollah&theme=dark" alt="habibmollah" /></p>-->
 
 <!-- <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=habibmollah&show_icons=true&theme=merko&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en" alt="habibmollah" /></p> -->
 
