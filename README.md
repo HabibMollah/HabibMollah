@@ -1,5 +1,5 @@
 <!-- <h1 align="left">Hey!👋 I'm Habibur Rahman</h1> -->
-<code>const habiburRahman = {
+<code color="#00FF41">const habiburRahman = {
   name: 'Habibur Rahman',
   profession: 'Front-End Developer',
   skills: ['HTML', 'CSS', 'Bootstrap', 'Tailwind CSS', 'JavaScript', 'React'],
