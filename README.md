@@ -1,6 +1,6 @@
 <!-- <h1 align="left">Hey!👋 I'm Habibur Rahman</h1> -->
 <img src="./Screenshot.png">
-<code>const habiburRahman = {
+<!-- <code>const habiburRahman = {
   name: 'Habibur Rahman',
   profession: 'Front-End Developer',
   skills: ['HTML', 'CSS', 'Bootstrap', 'Tailwind CSS', 'JavaScript', 'React'],
@@ -13,7 +13,7 @@ My passion lies in ${this.passion}, ensuring that users have a seamless and enga
 Let's collaborate and bring your vision to life!\`);
   },
 };
-habiburRahman.describe();</code>
+habiburRahman.describe();</code> -->
 <!-- <p align="left">An enthusiastic and determined learner from Bangladesh 🇧🇩, committed to expanding my knowledge and skills in order to make a positive impact on my community and the world.</p> -->
 
 <p>📫 To reach me <a href="mailto:hrmollah2002@gmail.com">hrmollah2002@gmail.com</a></p>
