@@ -6,10 +6,10 @@
   expertise: ['Responsive Web Design', 'User Interface (UI) Development', 'Front-End Frameworks'],
   passion: 'Creating visually appealing and user-friendly websites',
   describe() {
-    console.log(`Hi, I'm ${this.name}, a passionate ${this.profession} with expertise in ${this.skills.join(', ')}.
+    console.log(\`Hi, I'm ${this.name}, a passionate ${this.profession} with expertise in ${this.skills.join(', ')}.
 I specialize in ${this.expertise.join(', ')} and thrive on transforming ideas into beautiful and interactive web experiences.
 My passion lies in ${this.passion}, ensuring that users have a seamless and engaging browsing experience.
-Let's collaborate and bring your vision to life!`);
+Let's collaborate and bring your vision to life!\`);
   },
 };
 habiburRahman.describe();</code>
