@@ -1,5 +1,21 @@
 <h1 align="left">Hey!👋 I'm Habibur Rahman</h1>
-<p align="left">An enthusiastic and determined learner from Bangladesh 🇧🇩, committed to expanding my knowledge and skills in order to make a positive impact on my community and the world.</p>
+<code>
+const habiburRahman = {
+  name: 'Habibur Rahman',
+  profession: 'Front-End Developer',
+  skills: ['HTML', 'CSS', 'Bootstrap', 'Tailwind CSS', 'JavaScript', 'React'],
+  expertise: ['Responsive Web Design', 'User Interface (UI) Development', 'Front-End Frameworks'],
+  passion: 'Creating visually appealing and user-friendly websites',
+  describe() {
+    console.log(`Hi, I'm ${this.name}, a passionate ${this.profession} with expertise in ${this.skills.join(', ')}.
+I specialize in ${this.expertise.join(', ')} and thrive on transforming ideas into beautiful and interactive web experiences.
+My passion lies in ${this.passion}, ensuring that users have a seamless and engaging browsing experience.
+Let's collaborate and bring your vision to life!`);
+  },
+};
+habiburRahman.describe();
+</code>
+<!-- <p align="left">An enthusiastic and determined learner from Bangladesh 🇧🇩, committed to expanding my knowledge and skills in order to make a positive impact on my community and the world.</p> -->
 
 <p>📫 To reach me <a href="mailto:hrmollah2002@gmail.com">hrmollah2002@gmail.com</a></p>
 
@@ -21,11 +37,11 @@
 
 <!-- <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=habibmollah&show_icons=true&theme=merko&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en" alt="habibmollah" /></p> -->
 
-<h3 align="center">Connect with me</h3>
+<!-- <h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://twitter.com/habibalbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="habibalbd" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/habib-ibn-tofazzal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="habib-ibn-tofazzal" height="30" width="40" /></a>
 <a href="https://fb.com/habib.ibn.tofazzal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="habib.ibn.tofazzal" height="30" width="40" /></a>
-</p>
+</p> -->
 
 <p align="left"> <img style="width:130px" src="https://komarev.com/ghpvc/?username=habibmollah&label=Profile%20views&color=34AEEB&style=flat" alt="habibmollah" /> </p>
