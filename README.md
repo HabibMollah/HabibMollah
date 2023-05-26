@@ -39,11 +39,11 @@ Let's collaborate and bring your vision to life!`);
 habiburRahman.describe();
 ```
 
-# 🔧 I work with
+# 🔧 I Know
 
 <table>
   <tr>
-    <td align="center" height="108" width="108">
+    <td align="center" height="100" width="100">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
         width="48"
@@ -52,7 +52,7 @@ habiburRahman.describe();
       />
       <br /><strong>TypeScript</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" height="100" width="100">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
         width="48"
@@ -61,7 +61,7 @@ habiburRahman.describe();
       />
       <br /><strong>React</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" height="100" width="100">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
         width="48"
@@ -70,7 +70,7 @@ habiburRahman.describe();
       />
       <br /><strong>Redux</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" height="100" width="100">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
         width="48"
@@ -79,7 +79,7 @@ habiburRahman.describe();
       />
       <br /><strong>Next.js</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" height="100" width="100">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
         width="48"
@@ -88,7 +88,7 @@ habiburRahman.describe();
       />
       <br /><strong>Sass</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" height="100" width="100">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
         width="48"
@@ -97,7 +97,7 @@ habiburRahman.describe();
       />
       <br /><strong>Tailwind</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" height="100" width="100">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
         width="48"
@@ -106,7 +106,7 @@ habiburRahman.describe();
       />
       <br /><strong>Bootstrap</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" height="100" width="100">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
         width="48"
