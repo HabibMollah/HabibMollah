@@ -41,7 +41,7 @@ habiburRahman.describe();
 
 # 🔧 I Know
 
-<table>
+<table overflow="hidden">
   <tr>
     <td align="center" height="100" width="100">
       <img
