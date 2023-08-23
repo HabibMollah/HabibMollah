@@ -1,4 +1,4 @@
-<!-- <h1 align="left">Hey!👋 I'm Habibur Rahman</h1> -->
+# Paste it in your browser's console
 
 ```javascript
 const habiburRahman = {
@@ -119,6 +119,8 @@ habiburRahman.describe();
   <tr>
   </tr>
 </table>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=HabibMollah&theme=highcontrast&hide_border=true&border_radius=25&sideNums=FFFFFF&background=45%2C0000FF%2CFF0000&ring=FF0000&fire=FF0000&stroke=EBEBEB&currStreakNum=EBEBEB&currStreakLabel=EBEBEB&sideLabels=EBEBEB&dates=EBEBEB&excludeDaysLabel=EBEBEB)](https://git.io/streak-stats)
 
 📫 To reach me [hrmollah2002@gmail.com](mailto:hrmollah2002@gmail.com)
 
