@@ -123,7 +123,7 @@ habiburRahman.describe();
 ## Github Stats 📊
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=HabibMollah&theme=onedark"/>
+  <img src="https://streak-stats.demolab.com?user=HabibMollah&theme=material&hide_border=true&border_radius=25"/>
 </p>
 
 📫 To reach me [hrmollah2002@gmail.com](mailto:hrmollah2002@gmail.com)
