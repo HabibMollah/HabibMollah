@@ -126,7 +126,7 @@ habiburRahman.describe();
   <img src="https://streak-stats.demolab.com?user=HabibMollah&theme=material&hide_border=true&border_radius=25"/>
 </p>
 <p align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=habibmollah&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibmollah&layout=compact"/>
 <!--   <img src="https://streak-stats.demolab.com?user=HabibMollah&theme=material&hide_border=true&border_radius=25"/> -->
 </p>
 
