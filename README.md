@@ -123,7 +123,7 @@ habiburRahman.describe();
 ## Github Stats 📊
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=HabibMollah&theme=material&hide_border=true&border_radius=25"/>
+  <img src="https://github-readme-streak-stats-tau-nine.vercel.app?user=HabibMollah&theme=material&hide_border=true&border_radius=25"/>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibmollah&layout=donut"/>
